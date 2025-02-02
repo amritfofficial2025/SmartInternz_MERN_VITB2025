@@ -11,8 +11,8 @@ Hello! I am **Amritangshu Dey**, a student at **VIT Bhopal** pursuing a **B.Tech
 
 ## Repository Contents 🚀
 This repository will be regularly updated with:
-- Solutions to weekly assignments and tasks 
-- Code snippets and related files for MERN Stack Development (MongoDB, Express, React, Node.js) 
+- Solutions to weekly assignments and tasks.
+- Code snippets and related files for MERN Stack Development (MongoDB, Express, React, Node.js).
 
 ## Contact 📝
 If you have any questions, encounter issues, or need assistance with anything related to this repository, feel free to reach out to me via email.
