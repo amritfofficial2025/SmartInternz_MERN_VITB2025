@@ -17,6 +17,6 @@ This repository will be regularly updated with:
 ## Contact
 If you have any questions, encounter issues, or need assistance with anything related to this repository, feel free to reach out to me via email.
 
-- **Email**: [amritangshudey2022@vitbhopal.ac.in]
+- **Email**: amritangshudey2022@vitbhopal.ac.in
 
 Thank you for visiting the repository!
