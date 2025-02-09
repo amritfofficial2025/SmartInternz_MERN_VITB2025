@@ -1,1 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML & CSS Assignment</title>
+    <style>
+        body {
+            font-family: 'Trebuchet MS', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #ffecd2, #fcb69f);
+            text-align: center;
+        }
+        .container {
+            width: 85%;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
+            margin-top: 30px;
+        }
+        h1, h2 {
+            color: #444;
+            font-family: 'Verdana', sans-serif;
+        }
+        .content {
+            text-align: justify;
+            font-family: "Courier New", monospace;
+            line-height: 1.8;
+            max-width: 750px;
+            margin: 10px auto;
+        }
+        .image-container {
+            margin: 25px 0;
+        }
+        img {
+            max-width: 80%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .caption {
+            font-style: italic;
+            color: #555;
+            margin-top: 8px;
+        }
+        .styled-button {
+            background-color: #ff5722;
+            color: white;
+            padding: 14px 28px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+            font-size: 18px;
+            transition: 0.3s;
+        }
+        .styled-button:hover {
+            background-color: #e64a19;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 25px 0;
+        }
+        th, td {
+            border: 1px solid #444;
+            padding: 14px;
+            text-align: center;
+            font-family: 'Tahoma', sans-serif;
+        }
+        th {
+            background-color: #ff7043;
+            color: white;
+        }
+        form {
+            margin-top: 25px;
+        }
+        input[type="text"], input[type="email"] {
+            width: 85%;
+            padding: 12px;
+            margin: 12px 0;
+            border: 1px solid #777;
+            border-radius: 6px;
+            font-family: 'Lucida Console', monospace;
+        }
+        input[type="submit"] {
+            padding: 14px 24px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-family: 'Arial', sans-serif;
+        }
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Smartinternz MERN </h1>
+        <h2>TASK - 1 </h2>
+        <div class="content">
+            <p>This webpage serves as a demonstration of structured content and CSS styling techniques. It features text styling, an image with a caption, a button, a table, and a simple form.</p>
+            <p>This web page is been created by <b>Amritangshu Dey - (22BCY10208).</b></p>
+            
+        </div>
+
+        <div class="image-container">
+            <img src="https://findlogovector.com/wp-content/uploads/2019/03/vit-bhopal-logo-vector.png" alt="VIT Bhopal Logo">
+            <div class="caption">Official Logo of VIT Bhopal University</div>
+        </div>
+
+        <button class="styled-button">Click Here</button>
+
+        <h2>Student Data Table</h2>
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Age</th>
+                <th>City</th>
+            </tr>
+            <tr>
+                <td>Amrit</td>
+                <td>21</td>
+                <td>Mumbai</td>
+            </tr>
+            <tr>
+                <td>Biprajeet</td>
+                <td>25</td>
+                <td>Guwahati</td>
+            </tr>
+            <tr>
+                <td>Muskan</td>
+                <td>27</td>
+                <td>Indore</td>
+            </tr>
+        </table>
+
+        <h2>Contact Form</h2>
+        <form>
+            <input type="text" placeholder="Your Name" required><br>
+            <input type="email" placeholder="Your Email" required><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</body>
+</html>
 
