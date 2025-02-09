@@ -1,3 +1,6 @@
+// Code By - Amritangshu Dey (22BCY10208)
+// Javascript Assignment - Week 2 - Task
+
 // Q 1
 let age = 25;
 let isAdult = age >= 18;
