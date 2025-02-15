@@ -1,6 +1,9 @@
+// Code By Amritangshu Dey - 22BCY10208
+// Week 3 Solutions - React.js Assignment 
+
 import React, { useState } from 'react';
 
-// Task 1: TextUpdater Component
+// Q1: TextUpdater Component
 function TextUpdater() {
   const [text, setText] = useState('');
 
@@ -18,7 +21,7 @@ function TextUpdater() {
   );
 }
 
-// Task 2: Form with Console Logging
+// Q2: Form with Console Logging
 function LogForm() {
   const [inputValue, setInputValue] = useState('');
 
@@ -43,7 +46,7 @@ function LogForm() {
   );
 }
 
-// Task 3: UserCard Component
+// Q3: UserCard Component
 function UserCard({ name, email }) {
   return (
     <div className="border rounded shadow-lg p-4 bg-white">
@@ -53,7 +56,7 @@ function UserCard({ name, email }) {
   );
 }
 
-// Task 4: Button Component
+// Q4: Button Component
 function CustomButton() {
   const handleClick = () => {
     console.log("Button clicked!");
@@ -69,7 +72,7 @@ function CustomButton() {
   );
 }
 
-// Task 5: LoginForm Component
+// Q5: LoginForm Component
 function LoginForm() {
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
