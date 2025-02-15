@@ -1,5 +1,5 @@
-// Created by - Amritangshu Dey - 22BCY10208
-// Week 3 - Task - Solutions - React
+// Code By Amritangshu Dey - 22BCY10208
+// Week 3 Solutions - React.js Assignment 
 
 import React, { useState } from 'react';
 
