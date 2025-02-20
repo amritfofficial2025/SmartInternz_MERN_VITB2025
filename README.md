@@ -1,4 +1,4 @@
-# 🌟 Smartinternz MERN Stack Development Program_VIT2025
+# 🧩 Smartinternz MERN Stack Development Program_VIT2025
 
 ## 🗂 MongoDB | Express | React | Node.js | 2025 Edition
 
