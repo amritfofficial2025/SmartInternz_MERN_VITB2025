@@ -1,5 +1,5 @@
 //Code By - Amritangshu Dey_22BCY10208
-// Week 3 - Task 3_Code:|
+// Week 3 - Task 3_Code:
 
 // Task 3: UserCard Component
 import React, { useState } from 'react';
