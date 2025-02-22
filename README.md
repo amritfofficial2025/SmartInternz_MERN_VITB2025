@@ -1,6 +1,6 @@
-# 🧩 Smartinternz MERN Stack Development Program_VIT2025
+# 🧩 Smartinternz MERN Stack Development
 
-## 🗂 MongoDB | Express | React | Node.js | 2025 Edition
+## 🗂 MongoDB | Express | React | Node.js | VIT2025 Edition
 
 ## About 🎓
 Hello! I am **Amritangshu Dey**, a student at **VIT Bhopal** pursuing a **B.Tech in Computer Science Engineering** with a specialization in **Cyber Security & Digital Forensics**. This repository contains the solutions for **weekly assignments** and tasks completed as part of the **Smartinternz MERN Stack Development Program** with MongoDB, which is part of the **VIT Bhopal Certification Program 2025**.
