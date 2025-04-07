@@ -6,7 +6,7 @@
 Hello! I am **Amritangshu Dey**, a student at **VIT Bhopal** pursuing a **B.Tech in Computer Science Engineering** with a specialization in **Cyber Security & Digital Forensics**. This repository contains the solutions for **weekly assignments** and tasks completed as part of the **Smartinternz MERN Stack Development Program** with MongoDB, which is part of the **VIT Bhopal Certification Program 2025**.
 
 ## Group Project Information 🛠️
-I am working under the following group under Smartbridge - Full Stack Developement MERN_VIT Program:
+I am working under the following group for Smartbridge - Full Stack Developement MERN_VIT Program:
 
 - **Group ID**: SWTID1743161557  
 - **Project Title**: Online Complaint Registration System (OCRMS)  
